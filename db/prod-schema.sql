@@ -175,7 +175,7 @@ CREATE TABLE level_thresholds (
 
 -- Insert data into level_thresholds
 INSERT INTO level_thresholds (level_number, xp_required, level_title) VALUES
-    (1, 0, 'Aura Brainrot Bot'),
+    (1, 0, 'Brainrot Newb'),
     (2, 100, 'Aura Apprentice'),
     (3, 250, 'Aura Adept'),
     (4, 500, 'Aura Guardian'),
